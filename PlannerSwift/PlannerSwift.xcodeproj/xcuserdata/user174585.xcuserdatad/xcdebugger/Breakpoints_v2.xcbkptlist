@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2A671FBD-3950-437C-B4FA-8C6E2A083AAB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "591EFB99-A2A5-462B-B88D-BA003A434AA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlannerSwift/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "591EFB99-A2A5-462B-B88D-BA003A434AA5 - 5f024e3cc2385ac2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.NSPersistentContainer in PlannerSwift.AppDelegate.persistentContainer.getter : __C.NSPersistentContainer"
+                  moduleName = "PlannerSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user174585/Desktop/PlannerSwift/PlannerSwift/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "591EFB99-A2A5-462B-B88D-BA003A434AA5 - 9848c1359017cd3c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 () -&gt; __C.NSPersistentContainer in PlannerSwift.AppDelegate.persistentContainer.getter : __C.NSPersistentContainer"
+                  moduleName = "PlannerSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user174585/Desktop/PlannerSwift/PlannerSwift/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "106">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
